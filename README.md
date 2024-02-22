@@ -1,7 +1,7 @@
-[Screen Shot 2024-02-22 at 14 42 55](https://github.com/ayuboketch/Code-Warrior-/assets/17433791/3375f77c-5a28-4000-9eea-31ff182445cf)
 
-# Navigating Complexity: Code Warrior - Platf!
-ormer Game Project
+![Screen Shot 2024-02-22 at 14 42 55](https://github.com/ayuboketch/Code-Warrior-/assets/17433791/b26fb021-778c-469a-9403-643cfea311a3)
+
+# Navigating Complexity: Code Warrior - Platformer Game Project
 
 Embark on an exciting journey into the realm of game development with my latest project, Code Warrior - a platformer game built using HTML, CSS, and JavaScript. This endeavor is more than just code; it's a testament to creativity and problem-solving, resulting in an immersive gaming experience where players guide the main character through challenging levels. 
 
